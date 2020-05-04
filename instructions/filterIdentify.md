@@ -22,7 +22,7 @@ fi
   "Name": "Tittle",
   "Description": "The item description",
   "App": true,
-  "Notice": 3,
+  "Notice": 2,
   "PackName": "pkgname",
   "Paths": [
     "PUBLIC_LOCATION/files/",
@@ -35,4 +35,16 @@ fi
   "Size": 0
 }
 ```
+
+### Name
+**规则将呈现的标题**
+
+### Description
+**规则将呈现的描述**
+
+### App
+**应用判断规则是否针对应用的参数**
+
+### Notice
+**提示的级别\n,**
 
