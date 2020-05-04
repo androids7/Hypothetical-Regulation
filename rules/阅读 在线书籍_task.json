@@ -1,0 +1,14 @@
+{
+  "Checked": false,
+  "Description": "在线书籍缓存",
+  "App": true,
+  "Name": "阅读 在线书籍",
+  "Notice": 1,
+  "PackName": "com.gedoor.monkeybook",
+  "Paths": [
+    "PUBLIC_DATA/com.gedoor.monkeybook/files/book_cache/",
+    "PUBLIC_DATA/io.legado.app.release/files/book_cache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

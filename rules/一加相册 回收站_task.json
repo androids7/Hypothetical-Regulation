@@ -1,0 +1,14 @@
+{
+  "Checked": false,
+  "Description": "三思而后行",
+  "App": true,
+  "Name": "一加相册 回收站",
+  "Notice": 0,
+  "PackName": "com.oneplus.gallery",
+  "Paths": [
+    "PUBLIC_DATA/com.oneplus.gallery/files/recyclebin/",
+    "PRIVATE_DATA/com.oneplus.gallery/databases/recyclebin.db"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

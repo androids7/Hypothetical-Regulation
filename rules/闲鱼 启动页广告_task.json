@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "App": true,
+  "Name": "闲鱼 启动页广告",
+  "Notice": 0,
+  "PackName": "com.taobao.idlefish",
+  "Paths": [
+    "PUBLIC_DATA/com.taobao.idlefish/files/ad/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

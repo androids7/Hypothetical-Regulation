@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "在线音乐的歌词",
+  "App": true,
+  "Name": "网易云音乐 在线歌词",
+  "Notice": 0,
+  "PackName": "com.netease.cloudmusic",
+  "Paths": [
+    "PUBLIC_LOCATION/netease/cloudmusic/cache/lyric/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

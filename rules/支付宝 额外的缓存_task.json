@@ -1,0 +1,15 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "App": true,
+  "Name": "支付宝 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.eg.android.AlipayGphone",
+  "Paths": [
+    "PUBLIC_LOCATION/alipay/multimedia/",
+    "PRIVATE_DATA/com.eg.android.alipaygphone/app_alipay_msp_disk_cache/",
+    "PRIVATE_DATA/com.eg.android.alipaygphone/files/securitycacheservicestorage/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

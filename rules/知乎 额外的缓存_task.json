@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "App": true,
+  "Name": "知乎 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.zhihu.android",
+  "Paths": [
+    "PRIVATE_DATA/com.zhihu.android/app_offlinepackages/temp/",
+    "PRIVATE_DATA/com.zhihu.android/files/cookiecache/",
+    "PRIVATE_DATA/com.zhihu.android/files/zhihumqttcache/",
+    "PUBLIC_DATA/com.zhihu.android/files/movies/videocache/",
+    "PUBLIC_DATA/com.zhihu.android/files/txrtmp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

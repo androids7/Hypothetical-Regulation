@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "App": true,
+  "Name": "微信学英语 额外的日志",
+  "Notice": 0,
+  "PackName": "com.hiwechart.translate",
+  "Paths": [
+    "PUBLIC_LOCATION/weixinfanyi/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/weixinfanyi\\/)(?:.+?\\.log)$"
+  ],
+  "Size": 0
+}

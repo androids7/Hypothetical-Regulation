@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "上传题图时产生的缓存",
+  "App": true,
+  "Name": "作业帮 搜题图片",
+  "Notice": 0,
+  "PackName": "com.baidu.homework",
+  "Paths": [
+    "PUBLIC_DATA/com.baidu.homework/files/image/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

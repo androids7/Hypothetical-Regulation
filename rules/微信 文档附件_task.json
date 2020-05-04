@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "加载到本地的文档",
+  "App": true,
+  "Name": "微信 文档附件",
+  "Notice": 2,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/micromsg/",
+    "PUBLIC_LOCATION/tencent/weixin/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/)(?>(?:micromsg|weixin)\\/)(?>[a-z0-9]{32}\\/)(?>attachment\\/)(?>.+)$"
+  ],
+  "Size": 0
+}

@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "资源缓存",
+  "App": true,
+  "Name": "支付宝 开放平台",
+  "Notice": 0,
+  "PackName": "com.eg.android.AlipayGphone",
+  "Paths": [
+    "PUBLIC_LOCATION/alipay/com.eg.android.alipaygphone/openplatform/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

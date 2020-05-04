@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "短视频缓存",
+  "App": true,
+  "Name": "网易云音乐 短视频",
+  "Notice": 0,
+  "PackName": "com.netease.cloudmusic",
+  "Paths": [
+    "PUBLIC_LOCATION/netease/cloudmusic/cache/shortvideo/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

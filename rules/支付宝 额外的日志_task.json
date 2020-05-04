@@ -1,0 +1,15 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "App": true,
+  "Name": "支付宝 额外的日志",
+  "Notice": 0,
+  "PackName": "com.eg.android.AlipayGphone",
+  "Paths": [
+    "PUBLIC_LOCATION/alipay/com.eg.android.alipaygphone/trafficlogic/",
+    "PUBLIC_LOCATION/alipay/com.eg.android.alipaygphone/applogic/",
+    "PUBLIC_DATA/com.eg.android.alipaygphone/files/mobileaix/log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

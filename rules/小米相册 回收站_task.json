@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "请再三确认是否删除",
+  "App": true,
+  "Name": "小米相册 回收站",
+  "Notice": 2,
+  "PackName": "com.miui.gallery",
+  "Paths": [
+    "PUBLIC_LOCATION/MIUI/gallery/cloud/.trashbin/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

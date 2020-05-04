@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "聊天中的接收的图片",
+  "App": true,
+  "Name": "微信 聊天图片",
+  "Notice": 2,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/micromsg/",
+    "PUBLIC_LOCATION/tencent/weixin/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/)(?>(?:micromsg|weixin)\\/)(?>[a-z0-9]{32}\\/)(?>image[\\d]\\/)(?>.+)$"
+  ],
+  "Size": 0
+}

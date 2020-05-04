@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "App": true,
+  "Name": "优酷 启动页广告",
+  "Notice": 0,
+  "PackName": "com.youku.phone",
+  "Paths": [
+    "PUBLIC_DATA/com.youku.phone/files/ad/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

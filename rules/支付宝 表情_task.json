@@ -1,0 +1,14 @@
+{
+  "Checked": false,
+  "Description": "私信中的表情",
+  "App": true,
+  "Name": "支付宝 表情",
+  "Notice": 1,
+  "PackName": "com.eg.android.AlipayGphone",
+  "Paths": [
+    "PUBLIC_DATA/com.eg.android.alipaygphone/files/emotion/",
+    "PUBLIC_DATA/com.eg.android.alipaygphone/files/emojifiles/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

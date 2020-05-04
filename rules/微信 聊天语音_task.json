@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "聊天中的语音消息",
+  "App": true,
+  "Name": "微信 聊天语音",
+  "Notice": 2,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/micromsg/",
+    "PUBLIC_LOCATION/tencent/weixin/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/)(?>(?:micromsg|weixin)\\/)(?>[a-z0-9]{32}\\/)(?>voice[\\d]\\/)(?>.+)$"
+  ],
+  "Size": 0
+}

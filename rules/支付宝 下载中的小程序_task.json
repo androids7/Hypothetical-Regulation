@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "临时文件",
+  "App": true,
+  "Name": "支付宝 下载中的小程序",
+  "Notice": 0,
+  "PackName": "com.eg.android.AlipayGphone",
+  "Paths": [
+    "PUBLIC_LOCATION/alipay/com.eg.android.alipaygphone/nebuladownload/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

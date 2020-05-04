@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "根据本地音乐匹配的歌词文件",
+  "App": true,
+  "Name": "网易云音乐 匹配歌词文件",
+  "Notice": 1,
+  "PackName": "com.netease.cloudmusic",
+  "Paths": [
+    "PUBLIC_LOCATION/netease/cloudmusic/download/image/lyric/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

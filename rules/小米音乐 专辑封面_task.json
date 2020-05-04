@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "图片缓存",
+  "App": true,
+  "Name": "小米音乐 专辑封面",
+  "Notice": 1,
+  "PackName": "com.miui.player",
+  "Paths": [
+    "PUBLIC_LOCATION/miui/music/album/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

@@ -1,0 +1,14 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "App": true,
+  "Name": "微信 公众号广告",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/micromsg/sns_ad_landingpages/",
+    "PUBLIC_LOCATION/tencent/weixin/sns_ad_landingpages/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

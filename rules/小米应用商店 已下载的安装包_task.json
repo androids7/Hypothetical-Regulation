@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "安装包文件",
+  "App": true,
+  "Name": "小米应用商店 已下载的安装包",
+  "Notice": 1,
+  "PackName": "com.xiaomi.market",
+  "Paths": [
+    "PUBLIC_LOCATION/mimarket/files/apk/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

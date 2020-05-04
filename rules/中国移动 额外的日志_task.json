@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "App": true,
+  "Name": "中国移动 额外的日志",
+  "Notice": 0,
+  "PackName": "com.greenpoint.android.mc10086.activity",
+  "Paths": [
+    "PUBLIC_LOCATION/cmcc_sso_south_log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}
