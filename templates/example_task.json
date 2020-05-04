@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "The item description",
+  "App": true,
+  "Name": "Tittle",
+  "Notice": 3,
+  "PackName": "pkgname",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/micromsg/",
+    "PUBLIC_LOCATION/tencent/weixin/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/)(?>(?:example)\\/)(?>[a-z0-9]{32}\\/)(?>files\\/)(?>.+)"
+  ],
+  "Size": 0
+}
