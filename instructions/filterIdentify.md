@@ -8,5 +8,5 @@ if [ -d "/storage/emulated/0" ]; then
 fi
  `
 然后将存储根目录下的public.txt通过邮箱发给我
-[Tritium:tritium404@hotmail.com](Tritium)
+[Tritium:tritium404@hotmail.com](Tritium:tritium404@hotmail.com)
 
