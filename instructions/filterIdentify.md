@@ -13,3 +13,23 @@ fi
 
 邮箱地址：tritium404@hotmail.com
 
+然后我会分析其路径并尽快合并到master
+##Identify
+{
+  "Checked": false,
+  "Description": "The item description",
+  "App": true,
+  "Name": "Tittle",
+  "Notice": 3,
+  "PackName": "pkgname",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/micromsg/",
+    "PUBLIC_LOCATION/tencent/weixin/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/)(?>(?:example)\\/)(?>[a-z0-9]{32}\\/)(?>files\\/)(?>.+)"
+  ],
+  "Size": 0
+}
+
