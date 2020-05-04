@@ -1,0 +1,15 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "App": true,
+  "Name": "钉钉 额外的日志",
+  "Notice": 0,
+  "PackName": "com.alibaba.android.rimet",
+  "Paths": [
+    "PRIVATE_DATA/com.alibaba.android.rimet/app_wpksdk/.log/",
+    "PRIVATE_DATA/com.alibaba.android.rimet/httplog/",
+    "PUBLIC_DATA/com.alibaba.android.rimet/files/logs/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

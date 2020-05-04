@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "崩溃时产生的日志",
+  "App": true,
+  "Name": "EdXposed 崩溃日志",
+  "Notice": 0,
+  "PackName": "wcat.edxposed.manager",
+  "Paths": [
+    "PUBLIC_DATA/wcat.edxposed.manager/files/crash/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

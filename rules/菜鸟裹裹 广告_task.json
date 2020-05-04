@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "App": true,
+  "Name": "菜鸟裹裹 广告",
+  "Notice": 0,
+  "PackName": "com.cainiao.wireless",
+  "Paths": [
+    "PUBLIC_DATA/com.cainiao.wireless/files/splash_ads/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

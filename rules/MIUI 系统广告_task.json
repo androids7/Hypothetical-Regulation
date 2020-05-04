@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "App": true,
+  "Name": "MIUI 系统广告",
+  "Notice": 0,
+  "PackName": "com.miui.systemAdSolution",
+  "Paths": [
+    "PUBLIC_LOCATION/miad/"
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0
+}

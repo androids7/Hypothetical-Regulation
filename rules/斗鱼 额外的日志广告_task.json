@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "App": true,
+  "Name": "斗鱼 额外的日志广告",
+  "Notice": 0,
+  "PackName": "air.tv.douyu.android",
+  "Paths": [
+    "PRIVATE_DATA/air.tv.douyu.android/files/dylog/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

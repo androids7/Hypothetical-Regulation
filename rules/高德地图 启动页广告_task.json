@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "App": true,
+  "Name": "高德地图 启动页广告",
+  "Notice": 0,
+  "PackName": "com.autonavi.minimap",
+  "Paths": [
+    "PUBLIC_DATA/com.autonavi.minimap/files/splash/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

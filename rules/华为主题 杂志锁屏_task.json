@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "杂志锁屏缓存",
+  "App": true,
+  "Name": "华为主题 杂志锁屏",
+  "Notice": 0,
+  "PackName": "com.huawei.android.thememanager",
+  "Paths": [
+    "PUBLIC_LOCATION/huawei/magazineupdate/.cache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

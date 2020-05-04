@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "App": true,
+  "Name": "HiVision 额外的日志",
+  "Notice": 0,
+  "PackName": "com.huawei.hiview",
+  "Paths": [
+    "PUBLIC_LOCATION/hivision/log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "对话中载入的图片",
+  "App": true,
+  "Name": "Telegram 图片",
+  "Notice": 2,
+  "PackName": "org.telegram.messenger",
+  "Paths": [
+    "PUBLIC_LOCATION/telegram/telegram images/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

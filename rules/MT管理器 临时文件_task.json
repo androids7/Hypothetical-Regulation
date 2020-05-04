@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "压缩包内编辑文件等操作产生的临时文件",
+  "App": true,
+  "Name": "MT管理器 临时文件",
+  "Notice": 0,
+  "PackName": "bin.mt.plus",
+  "Paths": [
+    "PUBLIC_LOCATION/mt2/.temp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

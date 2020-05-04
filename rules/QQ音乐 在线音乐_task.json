@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "在线缓存的音乐",
+  "App": true,
+  "Name": "QQ音乐 在线音乐",
+  "Notice": 1,
+  "PackName": "com.tencent.qqmusic",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/cache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

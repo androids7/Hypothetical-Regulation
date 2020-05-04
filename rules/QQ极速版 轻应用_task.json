@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "轻应用缓存",
+  "App": true,
+  "Name": "QQ极速版 轻应用",
+  "Notice": 0,
+  "PackName": "com.tencent.qqlite",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/qqlite/arkapp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

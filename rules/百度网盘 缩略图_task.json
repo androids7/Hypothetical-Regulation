@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "缩略图缓存",
+  "App": true,
+  "Name": "百度网盘 缩略图",
+  "Notice": 0,
+  "PackName": "com.baidu.netdisk",
+  "Paths": [
+    "PUBLIC_LOCATION/baidunetdisk/百度网盘收件箱/.thumbnails/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

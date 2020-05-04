@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "App": true,
+  "Name": "斗鱼 启动页广告",
+  "Notice": 0,
+  "PackName": "air.tv.douyu.android",
+  "Paths": [
+    "PRIVATE_DATA/air.tv.douyu.android/files/ad_imgs/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

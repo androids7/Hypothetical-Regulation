@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "在线音乐缓存",
+  "App": true,
+  "Name": "酷我音乐 在线音乐",
+  "Notice": 0,
+  "PackName": "cn.kuwo.player",
+  "Paths": [
+    "PUBLIC_DATA/cn.kuwo.player/files/kuwomusic/.playcache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

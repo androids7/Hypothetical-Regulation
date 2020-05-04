@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "轻应用为分享中带Drawable的xml消息",
+  "App": true,
+  "Name": "QQ极速版 已安装的轻应用",
+  "Notice": 1,
+  "PackName": "com.tencent.qqlite",
+  "Paths": [
+    "PRIVATE_DATA/com.tencent.qqlite/files/arkapp/install/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

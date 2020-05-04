@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "头像缓存",
+  "App": true,
+  "Name": "QQ极速版 好友头像",
+  "Notice": 1,
+  "PackName": "com.tencent.qqlite",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/qqlite/head/_hd/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

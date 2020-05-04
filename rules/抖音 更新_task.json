@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "更新安装包",
+  "App": true,
+  "Name": "抖音 更新",
+  "Notice": 0,
+  "PackName": "com.ss.android.ugc.aweme",
+  "Paths": [
+    "PRIVATE_DATA/com.ss.android.ugc.aweme/files/apks/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

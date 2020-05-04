@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "对话中下载的视频",
+  "App": true,
+  "Name": "TelegramX 视频",
+  "Notice": 2,
+  "PackName": "org.thunderdog.challegram",
+  "Paths": [
+    "PUBLIC_DATA/org.thunderdog.challegram/files/videos/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

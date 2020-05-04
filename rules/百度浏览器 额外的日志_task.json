@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "App": true,
+  "Name": "百度浏览器 额外的日志",
+  "Notice": 0,
+  "PackName": "com.baidu.browser.apps",
+  "Paths": [
+    "PUBLIC_LOCATION/baidu/flyflow/kernel.log"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

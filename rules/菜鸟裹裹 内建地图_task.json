@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "高德地图SDK缓存",
+  "App": true,
+  "Name": "菜鸟裹裹 内建地图",
+  "Notice": 0,
+  "PackName": "com.cainiao.wireless",
+  "Paths": [
+    "PUBLIC_DATA/com.cainiao.wireless/files/amapcn/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

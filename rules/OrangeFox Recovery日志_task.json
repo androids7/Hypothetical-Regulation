@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "橙狐Recovery日志",
+  "App": true,
+  "Name": "OrangeFox Recovery日志",
+  "Notice": 0,
+  "PackName": "files.orangefox.tech",
+  "Paths": [
+    "PUBLIC_LOCATION/fox/lastrecoverylog.log"
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0
+}

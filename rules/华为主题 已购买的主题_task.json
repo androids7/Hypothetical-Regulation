@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "可在“已购买的主题”中下载",
+  "App": true,
+  "Name": "华为主题 已购买的主题",
+  "Notice": 2,
+  "PackName": "com.huawei.android.thememanager",
+  "Paths": [
+    "PUBLIC_LOCATION/huawei/themes/.payed/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

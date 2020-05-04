@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "临时文件",
+  "App": true,
+  "Name": "RootExplorer 解压临时文件",
+  "Notice": 2,
+  "PackName": "com.speedsoftware.rootexplorer",
+  "Paths": [
+    "PUBLIC_LOCATION/speedsoftware/extracted/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

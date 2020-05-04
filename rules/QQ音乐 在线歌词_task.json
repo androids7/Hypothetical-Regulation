@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "由在线音乐匹配的歌词文件",
+  "App": true,
+  "Name": "QQ音乐 在线歌词",
+  "Notice": 1,
+  "PackName": "com.tencent.qqmusic",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/qrc/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

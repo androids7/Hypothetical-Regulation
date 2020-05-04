@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "对话中加载的音乐",
+  "App": true,
+  "Name": "Telegram 音乐",
+  "Notice": 2,
+  "PackName": "org.telegram.messenger",
+  "Paths": [
+    "PUBLIC_LOCATION/telegram/telegram audio/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

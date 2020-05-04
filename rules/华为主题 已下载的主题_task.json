@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "不影响已安装的主题",
+  "App": true,
+  "Name": "华为主题 已下载的主题",
+  "Notice": 2,
+  "PackName": "com.huawei.android.thememanager",
+  "Paths": [
+    "PUBLIC_LOCATION/huawei/themes/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

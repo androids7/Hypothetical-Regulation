@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "对话中加载的贴图",
+  "App": true,
+  "Name": "TelegramX 贴图",
+  "Notice": 1,
+  "PackName": "org.thunderdog.challegram",
+  "Paths": [
+    "PUBLIC_DATA/org.thunderdog.challegram/files/animations/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

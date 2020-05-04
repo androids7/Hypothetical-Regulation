@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "App": true,
+  "Name": "Armorfly浏览器 崩溃日志",
+  "Notice": 0,
+  "PackName": "com.cmcm.armorflytemp",
+  "Paths": [
+    "PUBLIC_LOCATION/com.cmcm.armorflytemp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

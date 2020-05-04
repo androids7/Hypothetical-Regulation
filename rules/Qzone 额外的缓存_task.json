@@ -1,0 +1,14 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "App": true,
+  "Name": "Qzone 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/qzone/",
+    "PUBLIC_DATA/com.qzone"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}
