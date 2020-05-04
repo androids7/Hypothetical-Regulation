@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "对话中的语音消息",
+  "App": true,
+  "Name": "腾讯QQ 聊天语音",
+  "Notice": 2,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/mobileqq\\/)(?>[\\d]+\\/)(?:ptt\\/([\\d]+?\\/){0,2})(?:group|stream|c2c)_[\\w]+?\\.(?:slk|amr|pcm)$"
+  ],
+  "Size": 0
+}

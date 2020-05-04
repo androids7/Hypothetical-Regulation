@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "网页缓存",
+  "App": true,
+  "Name": "腾讯QQ 网页",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/webso/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/tencent/mobileqq/webso/",
+    "PUBLIC_LOCATION/tencent/mobileqq/webviewcheck/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/webviewcheck/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/pddata/app/",
+    "PUBLIC_LOCATION/com.tencent.mobileqq/tencent/mobileqq/pddata/app/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

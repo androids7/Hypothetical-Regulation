@@ -1,0 +1,14 @@
+{
+  "Checked": false,
+  "Description": "对话中已下载的视频文件",
+  "App": true,
+  "Name": "腾讯QQ 聊天视频",
+  "Notice": 2,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/shortvideo/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/shortvideo/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

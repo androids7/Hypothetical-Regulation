@@ -1,0 +1,14 @@
+{
+  "Checked": false,
+  "Description": "图片缓存",
+  "App": true,
+  "Name": "腾讯QQ OCR识别",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/ocr/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/ocr/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

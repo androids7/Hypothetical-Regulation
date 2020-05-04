@@ -1,0 +1,14 @@
+{
+  "Checked": false,
+  "Description": "压缩图片缓存",
+  "App": true,
+  "Name": "腾讯QQ 智图",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/zhitu/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/zhitu/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

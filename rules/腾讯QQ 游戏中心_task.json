@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "游戏中心网络缓存",
+  "App": true,
+  "Name": "腾讯QQ 游戏中心",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/.appcenterwebbuffer_qq/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

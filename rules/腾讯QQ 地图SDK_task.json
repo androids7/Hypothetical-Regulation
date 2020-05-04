@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "腾讯地图SDK缓存",
+  "App": true,
+  "Name": "腾讯QQ 地图SDK",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/files/tencentmapsdk/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

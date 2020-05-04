@@ -1,0 +1,14 @@
+{
+  "Checked": false,
+  "Description": "表情收藏栏里的表情",
+  "App": true,
+  "Name": "腾讯QQ 已收藏的表情",
+  "Notice": 2,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/qq_favorite/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/qq_favorite/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

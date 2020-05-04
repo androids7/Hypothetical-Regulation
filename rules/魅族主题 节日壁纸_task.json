@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "特殊节日触发的壁纸",
+  "App": true,
+  "Name": "魅族主题 节日壁纸",
+  "Notice": 1,
+  "PackName": "com.meizu.customizecenter",
+  "Paths": [
+    "PUBLIC_LOCATION/android/obb/.variedwallpaper/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

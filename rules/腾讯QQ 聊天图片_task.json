@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "对话中已加载的图片缓存",
+  "App": true,
+  "Name": "腾讯QQ 聊天图片",
+  "Notice": 2,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/chatpic/",
+    "PUBLIC_LOCATION/tencent/mobileqq/photo/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/chatpic/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/photo/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

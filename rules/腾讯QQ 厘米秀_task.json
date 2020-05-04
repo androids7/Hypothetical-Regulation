@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "图片缓存与无用的压缩资源",
+  "App": true,
+  "Name": "腾讯QQ 厘米秀",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/.apollo/image_cache/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/.apollo/image_cache/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/.apollo/rsc_jsonconfig/100_1_all_room3d/",
+    "PUBLIC_LOCATION/tencent/mobileqq/.apollo/rsc_jsonconfig/100_1_all_room3d/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

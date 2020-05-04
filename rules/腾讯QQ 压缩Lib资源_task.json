@@ -1,0 +1,14 @@
+{
+  "Checked": false,
+  "Description": "一些无用的被压缩的图形资源",
+  "App": true,
+  "Name": "腾讯QQ 压缩Lib资源",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/pddata/prd/",
+    "PUBLIC_LOCATION/tencent/mobileqq/pddata/prd/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

@@ -1,0 +1,15 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "App": true,
+  "Name": "淘宝 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.taobao.taobao",
+  "Paths": [
+    "PUBLIC_DATA/com.taobao.taobao/files/amapcn/",
+    "PUBLIC_DATA/com.taobao.taobao/files/avfscache/",
+    "PUBLIC_DATA/com.taobao.taobao/files/acds/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

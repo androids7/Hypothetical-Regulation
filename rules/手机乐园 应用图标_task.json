@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "图标缓存",
+  "App": true,
+  "Name": "手机乐园 应用图标",
+  "Notice": 0,
+  "PackName": "cn.com.shouji.market",
+  "Paths": [
+    "PUBLIC_LOCATION/sjly/cache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

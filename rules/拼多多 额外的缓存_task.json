@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "App": true,
+  "Name": "拼多多 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.xunmeng.pinduoduo",
+  "Paths": [
+    "PUBLIC_LOCATION/pindd/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

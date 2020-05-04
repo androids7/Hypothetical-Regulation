@@ -1,0 +1,13 @@
+{
+  "Checked": false,
+  "Description": "错误信息缓存",
+  "App": true,
+  "Name": "腾讯QQ 错误信息",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/files/.info/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}
