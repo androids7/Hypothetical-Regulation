@@ -11,7 +11,5 @@ fi
  
 然后将存储根目录下的public.txt通过邮箱发给我
 
-
-[Tritium:tritium404@hotmail.com](Tritium:tritium404@hotmail.com)
 邮箱地址自动链接 tritium404@hotmail.com
 
