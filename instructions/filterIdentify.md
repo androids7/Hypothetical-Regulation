@@ -19,15 +19,14 @@ fi
 
 ```json
 {
-  "Checked": false,
+  "Name": "Tittle",
   "Description": "The item description",
   "App": true,
-  "Name": "Tittle",
   "Notice": 3,
   "PackName": "pkgname",
   "Paths": [
-    "PUBLIC_LOCATION/tencent/micromsg/",
-    "PUBLIC_LOCATION/tencent/weixin/"
+    "PUBLIC_LOCATION/files/",
+    "PUBLIC_LOCATION/android/"
   ],
   "Redirect_Avoid": false,
   "Regexes": [
