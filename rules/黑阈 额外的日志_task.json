@@ -1,0 +1,12 @@
+{
+  "App": true,
+  "Description": "不合乎规范的日志目录",
+  "Name": "黑阈 额外的日志",
+  "Notice": 0,
+  "PackName": "me.piebridge.brevent",
+  "Paths": [
+    "PUBLIC_DATA/me.piebridge.brevent/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

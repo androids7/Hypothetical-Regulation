@@ -1,0 +1,12 @@
+{
+  "App": true,
+  "Description": "/data/backup/pending/",
+  "Name": "Android系统 暂挂备份（临时文件）",
+  "Notice": 0,
+  "PackName": "null",
+  "Paths": [
+    "/data/backup/pending/"  
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0
+}

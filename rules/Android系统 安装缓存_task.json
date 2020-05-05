@@ -1,0 +1,12 @@
+{
+  "App": true,
+  "Description": "/data/system/package_cache/",
+  "Name": "Android系统 安装缓存",
+  "Notice": 0,
+  "PackName": "null",
+  "Paths": [
+    "/data/system/package_cache/"  
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0
+}

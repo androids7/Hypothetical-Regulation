@@ -1,0 +1,12 @@
+{
+  "App": true,
+  "Description": "/data/system/dropbox/",
+  "Name": "Android系统 DropBox源源不断的日志",
+  "Notice": 0,
+  "PackName": "null",
+  "Paths": [
+    "/data/system/dropbox/"  
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0
+}

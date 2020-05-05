@@ -1,0 +1,12 @@
+{
+  "App": true,
+  "Description": "/data/system/procstats/",
+  "Name": "Android系统 进程统计",
+  "Notice": 0,
+  "PackName": "null",
+  "Paths": [
+    "/data/system/procstats/"  
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0
+}

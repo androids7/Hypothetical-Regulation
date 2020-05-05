@@ -1,0 +1,13 @@
+{
+  "App": true,
+  "Description": "所谓的校准电池功能",
+  "Name": "Android系统 电池用量统计",
+  "Notice": 0,
+  "PackName": "null",
+  "Paths": [
+    "/data/system/batterystats-checkin.bin",
+    "/data/system/batterystats.bin" 
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0
+}

@@ -1,0 +1,12 @@
+{
+  "App": true,
+  "Description": "/data/resource-cache/",
+  "Name": "Android系统 资源缓存",
+  "Notice": 0,
+  "PackName": "null",
+  "Paths": [
+    "/data/resource-cache/"  
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0
+}

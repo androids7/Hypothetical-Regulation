@@ -1,0 +1,12 @@
+{
+  "App": true,
+  "Description": "/data/system/usagestats/",
+  "Name": "Android系统 使用情况统计",
+  "Notice": 1,
+  "PackName": "null",
+  "Paths": [
+    "/data/system/usagestats/"  
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0
+}

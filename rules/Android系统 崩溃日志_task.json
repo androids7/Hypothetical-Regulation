@@ -1,0 +1,16 @@
+{
+  "App": true,
+  "Description": "/data/crashdata/",
+  "Name": "Android系统 崩溃日志",
+  "Notice": 0,
+  "PackName": "null",
+  "Paths": [
+    "/data/crashdata/",
+    "/data/tombstones/",
+    "/dev/fscklogs/",
+    "/idd/crashdata/",
+    "PRIVATE_DATA/com.android.shell/files/bugreports"
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0
+}

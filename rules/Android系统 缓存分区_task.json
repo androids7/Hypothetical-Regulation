@@ -1,0 +1,12 @@
+{
+  "App": true,
+  "Description": "/data/cache/",
+  "Name": "Android系统 缓存分区",
+  "Notice": 0,
+  "PackName": "null",
+  "Paths": [
+    "/data/cache/"  
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0
+}
