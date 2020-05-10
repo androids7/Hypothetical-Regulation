@@ -7,7 +7,8 @@
   "PackName": "com.cqmc.client",
   "Paths": [
     "PUBLIC_LOCATION/cmcc_sso_download",
-    "PUBLIC_LOCATION/cmcc_sso_ks"
+    "PUBLIC_LOCATION/cmcc_sso_ks",
+    "PUBLIC_LOCATION/cqmc/imgcach/"
   ],
   "Redirect_Avoid": false,
   "Size": 0
