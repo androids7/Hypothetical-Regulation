@@ -1,0 +1,12 @@
+{
+  "App": true,
+  "Description": "不合乎规范的日志目录",
+  "Name": "CellularPro 额外的日志",
+  "Notice": 0,
+  "PackName": "make.more.r2d2.cellular_pro",
+  "Paths": [
+    "PUBLIC_LOCATION/cellularpro/logs/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

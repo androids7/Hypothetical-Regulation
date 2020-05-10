@@ -1,0 +1,15 @@
+{
+  "App": true,
+  "Description": "下载目录中未下载完成的文件",
+  "Name": "Edge 下载中的文件",
+  "Notice": 1,
+  "PackName": "com.microsoft.emmx",
+  "Paths": [
+    "PUBLIC_LOCATION/download/"
+  ],
+  "Regexes": [
+  "^(?:.+?\\/download\\/.+?)(\\.crdownload)$"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}

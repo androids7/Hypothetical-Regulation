@@ -1,0 +1,15 @@
+{
+  "App": true,
+  "Description": "不合乎规范的日志目录",
+  "Name": "百度网盘 额外的日志",
+  "Notice": 0,
+  "PackName": "com.baidu.netdisk",
+  "Paths": [
+    "PUBLIC_LOCATION/baidunetdisk/"
+  ],
+  "Regexes": [
+    "^(?:.+?\\/baidunetdisk\\/.+?)(\\.log)$"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}
