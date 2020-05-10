@@ -1,0 +1,12 @@
+{
+  "Description": "下载中或已下载的安装包",
+  "App": true,
+  "Name": "Mobilism 已下载的安装包",
+  "Notice": 2,
+  "PackName": "demigos.com.mobilism",
+  "Paths": [
+    "PUBLIC_LOCATION/mobilism/mobilism-downloads/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}
