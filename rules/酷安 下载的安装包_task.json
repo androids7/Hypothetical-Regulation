@@ -1,0 +1,12 @@
+{
+  "Description": "下载中或已下载完成的安装包",
+  "App": true,
+  "Name": "酷安",
+  "Notice": 0,
+  "PackName": "com.coolapk.market",
+  "Paths": [
+    "PUBLIC_DATA/com.coolapk.market/files/download/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0
+}
